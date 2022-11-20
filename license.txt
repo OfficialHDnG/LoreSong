@@ -1,0 +1,2 @@
+Only code from original adefulodgu noname version 1.8  is released and used under original license GPL-3.0 license
+All new code does not follow GPL (Commons Clause)
